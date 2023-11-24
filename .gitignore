@@ -4,3 +4,4 @@ prometheus/**/*
 !prometheus/prometheus.yml
 src/logs
 src/node_modules
+src/dist
